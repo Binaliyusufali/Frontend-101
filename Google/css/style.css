@@ -1,0 +1,83 @@
+.nav-left {
+    padding-left: 10px;
+    padding-top: 10px;
+    /* margin-left: 8px;
+    margin-top: 10px; */
+    color: rgb(75, 73, 73);
+    float: left;
+}
+.nav-right {
+    float: right ;
+    margin-right: 0px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding: 5px;
+    color: rgb(75, 73, 73);
+
+}
+.container {
+    text-align: center;
+    padding-top: 2px;
+}
+.search-box {
+    width: 600px;
+    height: 40px;
+    border: 1px solid rgb(143, 138, 138);
+    border-color: rgb(167, 163, 163);
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 25px;
+  }
+
+  .buyutec {
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    box-shadow: none;
+  }
+
+  .input {
+    margin-left: -50px;
+    width: 450px;
+    height: 30px;
+    border: none;
+    box-shadow: none;
+  }
+  
+  .voice-logo {
+    float: right;
+    margin-top: -30px;
+    margin-right: 1px;
+    box-shadow: none;
+  }
+  .search-button {
+    float: left;
+  }
+  .button {
+    background-color: rgb(241, 241, 241);
+    border: none;
+    text-align: center;
+    height: 30px;
+    border-radius: 5px;
+    
+  }
+  .footer{
+    width: 99%;
+    height: 50px;
+    background-color: rgb(248, 231, 231);
+    position: absolute;
+    margin-top: 218px;
+    padding-top: 12px;
+    float: left;
+    
+  }
+  .footer-right{
+    width: 99%;
+    height: 50px;
+    background-color: rgb(248, 231, 231);
+    position: absolute;
+    margin-top: 218px;
+    padding-top: 12px;
+    float: left;
+    
+  }
