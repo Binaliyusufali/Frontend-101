@@ -1,0 +1,37 @@
+.navbar1 {
+    height: 54px;
+    background-color: white;
+}
+.searchInput {
+    margin-left: auto;
+}
+.placeholder{
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+    background-position: 40%;
+    background-size: 6%;
+    background-image: url(images/search-solid.svg);
+  }
+.storyphoto {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid rgb(238, 39, 82);
+    margin-right: 7px;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+}
+
+.storytext {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    color: black;
+}
+.rightPanelSticy {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 70px;
+    padding-top: 2px;
+    /* padding: 3px; */
+}
